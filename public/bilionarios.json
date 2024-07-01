@@ -1,0 +1,1157 @@
+[
+    {
+      "rank": 1,
+      "nome": "Elon Musk",
+      "fortuna": "200 bilhões",
+      "idade": 50,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Tesla, SpaceX"
+    },
+    {
+      "rank": 2,
+      "nome": "Jeff Bezos",
+      "fortuna": "190 bilhões",
+      "idade": 58,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Amazon"
+    },
+    {
+      "rank": 3,
+      "nome": "Bernard Arnault",
+      "fortuna": "180 bilhões",
+      "idade": 72,
+      "origem": "França",
+      "fonte_fortuna": "LVMH"
+    },
+    {
+      "rank": 4,
+      "nome": "Bill Gates",
+      "fortuna": "150 bilhões",
+      "idade": 65,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Microsoft"
+    },
+    {
+      "rank": 5,
+      "nome": "Mark Zuckerberg",
+      "fortuna": "120 bilhões",
+      "idade": 38,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Facebook"
+    },
+    {
+      "rank": 6,
+      "nome": "Warren Buffett",
+      "fortuna": "110 bilhões",
+      "idade": 91,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Berkshire Hathaway"
+    },
+    {
+      "rank": 7,
+      "nome": "Larry Ellison",
+      "fortuna": "100 bilhões",
+      "idade": 77,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Oracle"
+    },
+    {
+      "rank": 8,
+      "nome": "Larry Page",
+      "fortuna": "95 bilhões",
+      "idade": 49,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Google"
+    },
+    {
+      "rank": 9,
+      "nome": "Sergey Brin",
+      "fortuna": "92 bilhões",
+      "idade": 48,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Google"
+    },
+    {
+      "rank": 10,
+      "nome": "Mukesh Ambani",
+      "fortuna": "90 bilhões",
+      "idade": 64,
+      "origem": "Índia",
+      "fonte_fortuna": "Reliance Industries"
+    },
+    {
+      "rank": 11,
+      "nome": "Amancio Ortega",
+      "fortuna": "85 bilhões",
+      "idade": 85,
+      "origem": "Espanha",
+      "fonte_fortuna": "Inditex"
+    },
+    {
+      "rank": 12,
+      "nome": "François Pinault",
+      "fortuna": "80 bilhões",
+      "idade": 85,
+      "origem": "França",
+      "fonte_fortuna": "Kering"
+    },
+    {
+      "rank": 13,
+      "nome": "Steve Ballmer",
+      "fortuna": "75 bilhões",
+      "idade": 68,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Microsoft"
+    },
+    {
+      "rank": 14,
+      "nome": "Elon Musk",
+      "fortuna": "70 bilhões",
+      "idade": 72,
+      "origem": "Estados Unidos",
+      "fonte_fortuna": "Microsoft"
+    },
+    
+    {
+        "rank": 14,
+        "nome": "Steve Ballmer",
+        "fortuna": "75 bilhões",
+        "idade": 65,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Microsoft"
+    },
+    {
+        "rank": 15,
+        "nome": "Carlos Slim Helú",
+        "fortuna": "70 bilhões",
+        "idade": 81,
+        "origem": "México",
+        "fonte_fortuna": "Grupo Carso"
+    },
+    {
+        "rank": 16,
+        "nome": "Zhong Shanshan",
+        "fortuna": "68 bilhões",
+        "idade": 67,
+        "origem": "China",
+        "fonte_fortuna": "Nongfu Spring, Beijing Wantai Biological Pharmacy"
+    },
+    {
+        "rank": 17,
+        "nome": "Larry Ellison",
+        "fortuna": "65 bilhões",
+        "idade": 77,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Oracle"
+    },
+    {
+        "rank": 18,
+        "nome": "Mukesh Ambani",
+        "fortuna": "60 bilhões",
+        "idade": 64,
+        "origem": "Índia",
+        "fonte_fortuna": "Reliance Industries"
+    },
+    {
+        "rank": 19,
+        "nome": "Jack Ma",
+        "fortuna": "58 bilhões",
+        "idade": 58,
+        "origem": "China",
+        "fonte_fortuna": "Alibaba Group"
+    },
+    {
+        "rank": 20,
+        "nome": "Ma Huateng",
+        "fortuna": "55 bilhões",
+        "idade": 50,
+        "origem": "China",
+        "fonte_fortuna": "Tencent"
+    },
+    {
+        "rank": 21,
+        "nome": "Sergey Brin",
+        "fortuna": "53 bilhões",
+        "idade": 48,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Google"
+    },
+    {
+        "rank": 22,
+        "nome": "Elon Musk",
+        "fortuna": "50 bilhões",
+        "idade": 50,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tesla, SpaceX"
+    },
+    {
+        "rank": 23,
+        "nome": "François Pinault",
+        "fortuna": "48 bilhões",
+        "idade": 85,
+        "origem": "França",
+        "fonte_fortuna": "Kering"
+    },
+    {
+        "rank": 24,
+        "nome": "Gautam Adani",
+        "fortuna": "45 bilhões",
+        "idade": 59,
+        "origem": "Índia",
+        "fonte_fortuna": "Adani Group"
+    },
+    {
+        "rank": 25,
+        "nome": "Warren Buffett",
+        "fortuna": "42 bilhões",
+        "idade": 91,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Berkshire Hathaway"
+    },
+    {
+        "rank": 26,
+        "nome": "Michael Bloomberg",
+        "fortuna": "40 bilhões",
+        "idade": 80,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Bloomberg LP"
+    },
+    {
+        "rank": 27,
+        "nome": "Amancio Ortega",
+        "fortuna": "38 bilhões",
+        "idade": 85,
+        "origem": "Espanha",
+        "fonte_fortuna": "Inditex"
+    },
+    {
+        "rank": 28,
+        "nome": "Charles Koch",
+        "fortuna": "35 bilhões",
+        "idade": 86,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Koch Industries"
+    },
+    {
+        "rank": 29,
+        "nome": "David Koch",
+        "fortuna": "32 bilhões",
+        "idade": 82,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Koch Industries"
+    },
+    {
+        "rank": 30,
+        "nome": "Jacqueline Mars",
+        "fortuna": "30 bilhões",
+        "idade": 82,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Mars, Incorporated"
+    },
+    {
+        "rank": 31,
+        "nome": "John Mars",
+        "fortuna": "28 bilhões",
+        "idade": 85,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Mars, Incorporated"
+    },
+    {
+        "rank": 32,
+        "nome": "Len Blavatnik",
+        "fortuna": "26 bilhões",
+        "idade": 64,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Diversificado"
+    },
+    {
+        "rank": 33,
+        "nome": "MacKenzie Scott",
+        "fortuna": "25 bilhões",
+        "idade": 51,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Amazon"
+    },
+    {
+        "rank": 34,
+        "nome": "Françoise Bettencourt Meyers",
+        "fortuna": "24 bilhões",
+        "idade": 68,
+        "origem": "França",
+        "fonte_fortuna": "L'Oréal"
+    },
+    {
+        "rank": 35,
+        "nome": "Jim Walton",
+        "fortuna": "23 bilhões",
+        "idade": 73,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Walmart"
+    },
+    {
+        "rank": 36,
+        "nome": "Alice Walton",
+        "fortuna": "22 bilhões",
+        "idade": 72,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Walmart"
+    },
+    {
+        "rank": 37,
+        "nome": "Rob Walton",
+        "fortuna": "21 bilhões",
+        "idade": 77,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Walmart"
+    },
+    {
+        "rank": 38,
+        "nome": "Michael Dell",
+        "fortuna": "20 bilhões",
+        "idade": 57,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Dell Technologies"
+    },
+    {
+        "rank": 39,
+        "nome": "Phil Knight",
+        "fortuna": "19 bilhões",
+        "idade": 84,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Nike"
+    },
+    {
+        "rank": 40,
+        "nome": "Steve Cohen",
+        "fortuna": "18 bilhões",
+        "idade": 65,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 41,
+        "nome": "Ray Dalio",
+        "fortuna": "17 bilhões",
+        "idade": 72,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 42,
+        "nome": "David Geffen",
+        "fortuna": "16 bilhões",
+        "idade": 79,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Entretenimento"
+    },
+    {
+        "rank": 43,
+        "nome": "Rupert Murdoch",
+        "fortuna": "15 bilhões",
+        "idade": 91,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "News Corp"
+    },
+    {
+        "rank": 44,
+        "nome": "John Paulson",
+        "fortuna": "14 bilhões",
+        "idade": 66,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 45,
+        "nome": "Jorge Paulo Lemann",
+        "fortuna": "13 bilhões",
+        "idade": 82,
+        "origem": "Brasil",
+        "fonte_fortuna": "AB InBev"
+    },
+    {
+        "rank": 46,
+        "nome": "Joseph Safra",
+        "fortuna": "12 bilhões",
+        "idade": 83,
+        "origem": "Brasil",
+        "fonte_fortuna": "Banco Safra"
+    },
+    {
+        "rank": 47,
+        "nome": "Lee Shau Kee",
+        "fortuna": "11 bilhões",
+        "idade": 93,
+        "origem": "Hong Kong",
+        "fonte_fortuna": "Imobiliário"
+    },
+    {
+        "rank": 48,
+        "nome": "Susanne Klatten",
+        "fortuna": "10 bilhões",
+        "idade": 59,
+        "origem": "Alemanha",
+        "fonte_fortuna": "BMW, Farmacêutica"
+    },
+    {
+        "rank": 49,
+        "nome": "Roman Abramovich",
+        "fortuna": "9 bilhões",
+        "idade": 57,
+        "origem": "Rússia",
+        "fonte_fortuna": "Indústria, Chelsea FC"
+    },
+    {
+        "rank": 50,
+        "nome": "Hui Ka Yan",
+        "fortuna": "8 bilhões",
+        "idade": 63,
+        "origem": "China",
+        "fonte_fortuna": "Evergrande Group"
+    },
+    {
+        "rank": 51,
+        "nome": "Kwong Siu-hing",
+        "fortuna": "7 bilhões",
+        "idade": 97,
+        "origem": "Hong Kong",
+        "fonte_fortuna": "Imobiliário"
+    },
+    {
+        "rank": 52,
+        "nome": "Klaus-Michael Kühne",
+        "fortuna": "6 bilhões",
+        "idade": 84,
+        "origem": "Alemanha",
+        "fonte_fortuna": "Logística"
+    },
+    {
+        "rank": 53,
+        "nome": "Aliko Dangote",
+        "fortuna": "5 bilhões",
+        "idade": 64,
+        "origem": "Nigéria",
+        "fonte_fortuna": "Dangote Group"
+    },
+    {
+        "rank": 54,
+        "nome": "Laurene Powell Jobs",
+        "fortuna": "4 bilhões",
+        "idade": 59,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Apple, Disney"
+    },
+    {
+        "rank": 55,
+        "nome": "George Soros",
+        "fortuna": "3 bilhões",
+        "idade": 92,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 56,
+        "nome": "Robert Kuok",
+        "fortuna": "2 bilhões",
+        "idade": 98,
+        "origem": "Malásia",
+        "fonte_fortuna": "Diversificado"
+    },
+    {
+        "rank": 57,
+        "nome": "Isaac Perlmutter",
+        "fortuna": "1 bilhão",
+        "idade": 79,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Marvel Entertainment"
+    },
+    {
+    "rank": 58,
+    "nome": "John Doerr",
+    "fortuna": "900 milhões",
+    "idade": 70,
+    "origem": "Estados Unidos",
+    "fonte_fortuna": "Venture Capital"
+    },
+    {
+        "rank": 59,
+        "nome": "Carl Icahn",
+        "fortuna": "850 milhões",
+        "idade": 85,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 60,
+        "nome": "Oprah Winfrey",
+        "fortuna": "800 milhões",
+        "idade": 69,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Mídia"
+    },
+    {
+        "rank": 61,
+        "nome": "Richard Branson",
+        "fortuna": "750 milhões",
+        "idade": 71,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Virgin Group"
+    },
+    {
+        "rank": 62,
+        "nome": "Reinhold Würth",
+        "fortuna": "700 milhões",
+        "idade": 86,
+        "origem": "Alemanha",
+        "fonte_fortuna": "Würth Group"
+    },
+    {
+        "rank": 63,
+        "nome": "J.K. Rowling",
+        "fortuna": "650 milhões",
+        "idade": 58,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Escritora"
+    },
+    {
+        "rank": 64,
+        "nome": "Kylie Jenner",
+        "fortuna": "600 milhões",
+        "idade": 25,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Cosméticos"
+    },
+    {
+        "rank": 65,
+        "nome": "David Copperfield",
+        "fortuna": "550 milhões",
+        "idade": 66,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ilusionista"
+    },
+    {
+        "rank": 66,
+        "nome": "Simon Cowell",
+        "fortuna": "500 milhões",
+        "idade": 61,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Televisão"
+    },
+    {
+        "rank": 67,
+        "nome": "Kanye West",
+        "fortuna": "450 milhões",
+        "idade": 44,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Música, Moda"
+    },
+    {
+        "rank": 68,
+        "nome": "Gordon Ramsay",
+        "fortuna": "400 milhões",
+        "idade": 56,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Restaurantes, Televisão"
+    },
+    {
+        "rank": 69,
+        "nome": "Jessica Alba",
+        "fortuna": "350 milhões",
+        "idade": 40,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Cosméticos"
+    },
+    {
+        "rank": 70,
+        "nome": "Lionel Messi",
+        "fortuna": "300 milhões",
+        "idade": 34,
+        "origem": "Argentina",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 71,
+        "nome": "Cristiano Ronaldo",
+        "fortuna": "250 milhões",
+        "idade": 36,
+        "origem": "Portugal",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 72,
+        "nome": "Lewis Hamilton",
+        "fortuna": "200 milhões",
+        "idade": 37,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Fórmula 1"
+    },
+    {
+        "rank": 73,
+        "nome": "Serena Williams",
+        "fortuna": "150 milhões",
+        "idade": 40,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 74,
+        "nome": "Michael Jordan",
+        "fortuna": "100 milhões",
+        "idade": 59,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete, Investimentos"
+    },
+    {
+        "rank": 75,
+        "nome": "Tom Brady",
+        "fortuna": "90 milhões",
+        "idade": 45,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol Americano"
+    },
+    {
+        "rank": 76,
+        "nome": "Roger Federer",
+        "fortuna": "80 milhões",
+        "idade": 40,
+        "origem": "Suíça",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 77,
+        "nome": "Rafael Nadal",
+        "fortuna": "70 milhões",
+        "idade": 37,
+        "origem": "Espanha",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 78,
+        "nome": "Novak Djokovic",
+        "fortuna": "60 milhões",
+        "idade": 35,
+        "origem": "Sérvia",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 79,
+        "nome": "Naomi Osaka",
+        "fortuna": "50 milhões",
+        "idade": 24,
+        "origem": "Japão",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 80,
+        "nome": "LeBron James",
+        "fortuna": "40 milhões",
+        "idade": 38,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 81,
+        "nome": "Anthony Joshua",
+        "fortuna": "30 milhões",
+        "idade": 32,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Boxe"
+    },
+    {
+        "rank": 82,
+        "nome": "Lewis Capaldi",
+        "fortuna": "20 milhões",
+        "idade": 25,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Música"
+    },
+    {
+        "rank": 83,
+        "nome": "Emma Raducanu",
+        "fortuna": "15 milhões",
+        "idade": 19,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 84,
+        "nome": "Greta Thunberg",
+        "fortuna": "10 milhões",
+        "idade": 18,
+        "origem": "Suécia",
+        "fonte_fortuna": "Ativismo Ambiental"
+    },
+    {
+        "rank": 85,
+        "nome": "João Félix",
+        "fortuna": "5 milhões",
+        "idade": 21,
+        "origem": "Portugal",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 86,
+        "nome": "Bianca Andreescu",
+        "fortuna": "2 milhões",
+        "idade": 21,
+        "origem": "Canadá",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 87,
+        "nome": "Zion Williamson",
+        "fortuna": "1 milhão",
+        "idade": 21,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 88,
+        "nome": "Coco Gauff",
+        "fortuna": "900 mil",
+        "idade": 17,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 89,
+        "nome": "Luka Dončić",
+        "fortuna": "800 mil",
+        "idade": 23,
+        "origem": "Eslovênia",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 90,
+        "nome": "Laurie Hernandez",
+        "fortuna": "700 mil",
+        "idade": 21,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ginástica"
+    },
+    {
+        "rank": 91,
+        "nome": "Megan Rapinoe",
+        "fortuna": "600 mil",
+        "idade": 37,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 92,
+        "nome": "Alex Morgan",
+        "fortuna": "500 mil",
+        "idade": 33,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 93,
+        "nome": "Simone Biles",
+        "fortuna": "400 mil",
+        "idade": 25,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ginástica"
+    },
+    {
+        "rank": 94,
+        "nome": "Usain Bolt",
+        "fortuna": "300 mil",
+        "idade": 35,
+        "origem": "Jamaica",
+        "fonte_fortuna": "Atletismo"
+    },
+    {
+        "rank": 95,
+        "nome": "Neymar Jr.",
+        "fortuna": "200 mil",
+        "idade": 31,
+        "origem": "Brasil",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 96,
+        "nome": "Virat Kohli",
+        "fortuna": "100 mil",
+        "idade": 35,
+        "origem": "Índia",
+        "fonte_fortuna": "Críquete"
+    },
+    {
+        "rank": 97,
+        "nome": "Serena Williams",
+        "fortuna": "90 mil",
+        "idade": 39,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 98,
+        "nome": "Roger Federer",
+        "fortuna": "80 mil",
+        "idade": 40,
+        "origem": "Suíça",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 99,
+        "nome": "Rafael Nadal",
+        "fortuna": "70 mil",
+        "idade": 36,
+        "origem": "Espanha",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 100,
+        "nome": "Novak Djokovic",
+        "fortuna": "60 mil",
+        "idade": 35,
+        "origem": "Sérvia",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 58,
+        "nome": "John Doerr",
+        "fortuna": "900 milhões",
+        "idade": 70,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Venture Capital"
+    },
+    {
+        "rank": 59,
+        "nome": "Carl Icahn",
+        "fortuna": "850 milhões",
+        "idade": 85,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Hedge funds"
+    },
+    {
+        "rank": 60,
+        "nome": "Oprah Winfrey",
+        "fortuna": "800 milhões",
+        "idade": 69,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Mídia"
+    },
+    {
+        "rank": 61,
+        "nome": "Richard Branson",
+        "fortuna": "750 milhões",
+        "idade": 71,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Virgin Group"
+    },
+    {
+        "rank": 62,
+        "nome": "Reinhold Würth",
+        "fortuna": "700 milhões",
+        "idade": 86,
+        "origem": "Alemanha",
+        "fonte_fortuna": "Würth Group"
+    },
+    {
+        "rank": 63,
+        "nome": "J.K. Rowling",
+        "fortuna": "650 milhões",
+        "idade": 58,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Escritora"
+    },
+    {
+        "rank": 64,
+        "nome": "Kylie Jenner",
+        "fortuna": "600 milhões",
+        "idade": 25,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Cosméticos"
+    },
+    {
+        "rank": 65,
+        "nome": "David Copperfield",
+        "fortuna": "550 milhões",
+        "idade": 66,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ilusionista"
+    },
+    {
+        "rank": 66,
+        "nome": "Simon Cowell",
+        "fortuna": "500 milhões",
+        "idade": 61,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Televisão"
+    },
+    {
+        "rank": 67,
+        "nome": "Kanye West",
+        "fortuna": "450 milhões",
+        "idade": 44,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Música, Moda"
+    },
+    {
+        "rank": 68,
+        "nome": "Gordon Ramsay",
+        "fortuna": "400 milhões",
+        "idade": 56,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Restaurantes, Televisão"
+    },
+    {
+        "rank": 69,
+        "nome": "Jessica Alba",
+        "fortuna": "350 milhões",
+        "idade": 40,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Cosméticos"
+    },
+    {
+        "rank": 70,
+        "nome": "Lionel Messi",
+        "fortuna": "300 milhões",
+        "idade": 34,
+        "origem": "Argentina",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 71,
+        "nome": "Cristiano Ronaldo",
+        "fortuna": "250 milhões",
+        "idade": 36,
+        "origem": "Portugal",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 72,
+        "nome": "Lewis Hamilton",
+        "fortuna": "200 milhões",
+        "idade": 37,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Fórmula 1"
+    },
+    {
+        "rank": 73,
+        "nome": "Serena Williams",
+        "fortuna": "150 milhões",
+        "idade": 40,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 74,
+        "nome": "Michael Jordan",
+        "fortuna": "100 milhões",
+        "idade": 59,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete, Investimentos"
+    },
+    {
+        "rank": 75,
+        "nome": "Tom Brady",
+        "fortuna": "90 milhões",
+        "idade": 45,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol Americano"
+    },
+    {
+        "rank": 76,
+        "nome": "Roger Federer",
+        "fortuna": "80 milhões",
+        "idade": 40,
+        "origem": "Suíça",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 77,
+        "nome": "Rafael Nadal",
+        "fortuna": "70 milhões",
+        "idade": 37,
+        "origem": "Espanha",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 78,
+        "nome": "Novak Djokovic",
+        "fortuna": "60 milhões",
+        "idade": 35,
+        "origem": "Sérvia",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 79,
+        "nome": "Naomi Osaka",
+        "fortuna": "50 milhões",
+        "idade": 24,
+        "origem": "Japão",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 80,
+        "nome": "LeBron James",
+        "fortuna": "40 milhões",
+        "idade": 38,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 81,
+        "nome": "Anthony Joshua",
+        "fortuna": "30 milhões",
+        "idade": 32,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Boxe"
+    },
+    {
+        "rank": 82,
+        "nome": "Lewis Capaldi",
+        "fortuna": "20 milhões",
+        "idade": 25,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Música"
+    },
+    {
+        "rank": 83,
+        "nome": "Emma Raducanu",
+        "fortuna": "15 milhões",
+        "idade": 19,
+        "origem": "Reino Unido",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 84,
+        "nome": "Greta Thunberg",
+        "fortuna": "10 milhões",
+        "idade": 18,
+        "origem": "Suécia",
+        "fonte_fortuna": "Ativismo Ambiental"
+    },
+    {
+        "rank": 85,
+        "nome": "João Félix",
+        "fortuna": "5 milhões",
+        "idade": 21,
+        "origem": "Portugal",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 86,
+        "nome": "Bianca Andreescu",
+        "fortuna": "2 milhões",
+        "idade": 21,
+        "origem": "Canadá",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 87,
+        "nome": "Zion Williamson",
+        "fortuna": "1 milhão",
+        "idade": 21,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 88,
+        "nome": "Coco Gauff",
+        "fortuna": "900 mil",
+        "idade": 17,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 89,
+        "nome": "Luka Dončić",
+        "fortuna": "800 mil",
+        "idade": 23,
+        "origem": "Eslovênia",
+        "fonte_fortuna": "Basquete"
+    },
+    {
+        "rank": 90,
+        "nome": "Laurie Hernandez",
+        "fortuna": "700 mil",
+        "idade": 21,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ginástica"
+    },
+    {
+        "rank": 91,
+        "nome": "Megan Rapinoe",
+        "fortuna": "600 mil",
+        "idade": 37,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 92,
+        "nome": "Alex Morgan",
+        "fortuna": "500 mil",
+        "idade": 33,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 93,
+        "nome": "Simone Biles",
+        "fortuna": "400 mil",
+        "idade": 25,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Ginástica"
+    },
+    {
+        "rank": 94,
+        "nome": "Usain Bolt",
+        "fortuna": "300 mil",
+        "idade": 35,
+        "origem": "Jamaica",
+        "fonte_fortuna": "Atletismo"
+    },
+    {
+        "rank": 95,
+        "nome": "Neymar Jr.",
+        "fortuna": "200 mil",
+        "idade": 31,
+        "origem": "Brasil",
+        "fonte_fortuna": "Futebol"
+    },
+    {
+        "rank": 96,
+        "nome": "Virat Kohli",
+        "fortuna": "100 mil",
+        "idade": 35,
+        "origem": "Índia",
+        "fonte_fortuna": "Críquete"
+    },
+    {
+        "rank": 97,
+        "nome": "Serena Williams",
+        "fortuna": "90 mil",
+        "idade": 39,
+        "origem": "Estados Unidos",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 98,
+        "nome": "Roger Federer",
+        "fortuna": "80 mil",
+        "idade": 40,
+        "origem": "Suíça",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 99,
+        "nome": "Rafael Nadal",
+        "fortuna": "70 mil",
+        "idade": 36,
+        "origem": "Espanha",
+        "fonte_fortuna": "Tênis"
+    },
+    {
+        "rank": 100,
+        "nome": "Novak Djokovic",
+        "fortuna": "60 mil",
+        "idade": 35,
+        "origem": "Sérvia",
+        "fonte_fortuna": "Tênis"
+    }
+]
+
+    
