@@ -1,25 +1,23 @@
 import React, { useEffect, useState } from 'react';
 
-const Top3 = () => {
-  const [top3Data, setTop3Data] = useState([]);
+const Top10 = () => {
+  const [top10Data, setTop10Data] = useState([]);
 
   useEffect(() => {
-    fetchTop3Data();
+    fetchTop10Data();
   }, []);
 
-  const fetchTop3Data = async () => {
+  const fetchTop10Data = async () => {
     try {
       const response = await fetch('./bilionarios.json');
       if (!response.ok) {
         throw new Error('Erro ao carregar dados');
       }
       const data = await response.json();
+    
+      const top10Bilionarios = data.filter(bilionario => bilionario.rank <= 10);
       
-      // Filtrando apenas até o rank 3
-      const top3Bilionarios = data.filter(bilionario => bilionario.rank <= 3);
-      
-      // Limitando para mostrar apenas os 3 primeiros
-      setTop3Data(top3Bilionarios.slice(0, 3));
+      setTop10Data(top10Bilionarios.slice(0, 10));
       
     } catch (error) {
       console.error('Erro:', error);
@@ -28,9 +26,9 @@ const Top3 = () => {
 
   return (
     <div>
-      <h2>Top 3 Pessoas Mais Ricas do Mundo</h2>
+      <h2>Top 10 Pessoas Mais Ricas do Mundo</h2>
       <ul>
-        {top3Data.map((bilionario, index) => (
+        {top10Data.map((bilionario, index) => (
           <li key={index}>
             <strong>{bilionario.nome}</strong> - {bilionario.rank}º lugar - Fortuna: {bilionario.fortuna}
           </li>
@@ -40,4 +38,4 @@ const Top3 = () => {
   );
 };
 
-export default Top3;
+export default Top10;

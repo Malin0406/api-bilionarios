@@ -42,10 +42,19 @@
 }
 
 
+
+.telas {
+  display: flex;
+}
 .btn-three {
+  justify-content: center;
   color: #FFF;
   transition: all 0.5s;
   position: relative;
+  width: 300px;
+  height: 40px;
+  margin: 5px;
+  
 }
 .btn-three::before {
   content: '';
