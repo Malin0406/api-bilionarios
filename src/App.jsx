@@ -1,20 +1,20 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Top3 from '../src/pages/page-top-3.jsx/top-3';
-import Top10 from '../src/pages/page-top-10.jsx/top-10';
-import Top100 from '../src/pages/page-top-100.jsx/top-100';
+import { Route, Routes } from 'react-router-dom';
+import Home from './pages/home/home.jsx';
+import Top3 from './pages/page-top-3.jsx/top-3';
+import Top10 from './pages/page-top-10/top-10.jsx';
+import Top100 from './pages/page-top-100/top-100.jsx';
 
 const App = () => {
   return (
-    <Router>
-      <div className="App">
-        <Switch>
-          <Route path="/Top3" exact component={Top3} />
-          <Route path="/Top10" component={Top10} />
-          <Route path="/Top100" component={Top100} />
-        </Switch>
-      </div>
-    </Router>
+    <div className="App">
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/Top3" element={<Top3 />} />
+        <Route path="/Top10" element={<Top10 />} />
+        <Route path="/Top100" element={<Top100 />} />
+      </Routes>
+    </div>
   );
 };
 

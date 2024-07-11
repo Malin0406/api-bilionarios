@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import Botao from '../../components/botao/botao.jsx'
+import { Link } from 'react-router-dom';
 
 const Top10 = () => {
   const [top10Data, setTop10Data] = useState([]);
@@ -34,6 +36,8 @@ const Top10 = () => {
           </li>
         ))}
       </ul>
+      <Link to="/">Voltar para Home</Link>
+      
     </div>
   );
 };
